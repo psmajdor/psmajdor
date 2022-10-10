@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @psmajdor
-- 👀 I’m interested in zdanie studiuf
+- 👀 I’m interested in
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on projekt na zdanko
-- 📫 How to reach me napisz byq
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me
 
 <!---
 psmajdor/psmajdor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
