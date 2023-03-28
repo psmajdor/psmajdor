@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @psmajdor
-- 👀 I’m interested in
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Patryk Smajdor
+- 👀 I’m interested in Science and technology
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me
 
