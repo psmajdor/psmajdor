@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patryk Smajdor, I study at AGH UST in Kraków.
+- 👋 Hi, I’m Patryk Smajdor, I study Automatics and Robotics at AGH UST in Kraków.
 - 👀 I’m interested in Science and technology
 - 🌱 I’m currently learning Web development
 
